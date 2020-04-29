@@ -1,3 +1,6 @@
 [submodule "aruco"]
 	path = thirdparty/aruco
 	url = git@github.com:inkyusa/aruco.git
+[submodule "thirdparty/libzip"]
+	path = thirdparty/libzip
+	url = git@github.com:inkyusa/libzip.git
