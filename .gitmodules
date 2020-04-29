@@ -1,0 +1,3 @@
+[submodule "aruco"]
+	path = thirdparty/aruco
+	url = git@github.com:inkyusa/aruco.git
